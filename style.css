@@ -1,6 +1,6 @@
 html {
   font-size: 10px;
-  background: url('./background.jpg') bottom center;
+  background: url('Image/77568a4e1c3b14dd9a6f6ab0541f44ee.jpg') bottom center;
   background-size: cover;
 }
 
@@ -10,6 +10,12 @@ body,html {
   font-family: sans-serif;
 }
 
+.Drummer-img{
+  position: absolute;
+  margin-left: 400px;
+  margin-top: 200px;
+  z-index: -5;
+}
 .keys {
   flex-grow: 1;
     display: flex;
